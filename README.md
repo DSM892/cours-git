@@ -1,4 +1,4 @@
 # cours-git
-Bonjour, je suis Elyzio JANVIER AUBRY. Je suis en deuxième année d'informatique à l'EPSI d'Auxerre et j'adore le Handball. Je travaille au McDo. J'ai 19 ans.
+Bonjour, je m'appelle Elyzio JANVIER AUBRY et j'ai 19 ans. Je suis en deuxième année d'étude d'ingénierie informatique à l'EPSI Auxerre.  J'adore le Handball. Je travaille au McDo.
 
 Je suis Dayssem SASSI, élève de SN2 à l'EPSI Auxerre. Je fais du MMA et j'adore les drones FPV.
